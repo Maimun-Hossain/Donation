@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "picture": "https://i.ibb.co/TW0X89G/Health.png",
+    "title": "Clean water for children",
+    "category": "Electronics",
+    "categoryColor": "#0052FF33",
+    "cardColor": "#0052FF26",
+    "textColor": "#0052FF",
+    "description": "Clean water is essential for children's health and well-being. Access to safe and uncontaminated drinking water is crucial to prevent waterborne diseases and support their growth and development. It enables proper hydration, sanitation, and hygiene practices, reducing the risk of illnesses that can hinder their education and overall quality of life. Ensuring clean water for children is a fundamental step towards a brighter, healthier future for the next generation.",
+    "price": 199.99
+  },
+  {
+    "id": 2,
+    "picture": "https://i.ibb.co/YpHYS05/Education.png",
+    "title": "Good education",
+    "category": "Clothing",
+    "categoryColor": "#FF444A33",
+    "cardColor": "#FF444A26",
+    "textColor": "#FF444A",
+    "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+    "price": 49.99
+  },
+  {
+    "id": 3,
+    "picture": "https://i.ibb.co/5xKnNtf/Clothing.png",
+    "title": "Used Clothing Drive",
+    "category": "Home & Garden",
+    "categoryColor": "#79C23F33",
+    "cardColor": "#79C23F26",
+    "textColor": "#79C23F",
+    "description": "A used clothing drive is a charitable initiative where individuals or organizations collect gently used clothing items from the community. These donations are then distributed to those in need, including underprivileged families, homeless individuals, or disaster-affected communities. Such drives promote recycling, reduce waste, and provide warmth and comfort to those who may not have access to adequate clothing. It's a compassionate way to make a positive impact on the lives of others while also being environmentally conscious.",
+    "price": 149.95
+  },
+  {
+    "id": 4,
+    "picture": "https://i.ibb.co/LkwFh4H/Food.png",
+    "title": "Better Food for Everyone",
+    "category": "Toys",
+    "categoryColor": "#F8714733",
+    "cardColor": "#F8714726",
+    "textColor": "#F87147",
+    "description": "is a movement aimed at improving access to nutritious, affordable, and sustainably sourced food for all. It advocates for policies and initiatives that address food deserts, support local agriculture, reduce food waste, and promote healthier eating habits. By ensuring that everyone has access to fresh, wholesome food, this initiative seeks to enhance overall health, reduce food insecurity, and create a more equitable food system that benefits individuals and communities alike.",
+    "price": 29.99
+  },
+  {
+    "id": 5,
+    "picture": "https://i.ibb.co/LkwFh4H/Food.png",
+    "title": "Better Food for Everyone",
+    "category": "Books",
+    "categoryColor": "#F8714733",
+    "cardColor": "#F8714726",
+    "textColor": "#F87147",
+    "description": "is a movement aimed at improving access to nutritious, affordable, and sustainably sourced food for all. It advocates for policies and initiatives that address food deserts, support local agriculture, reduce food waste, and promote healthier eating habits. By ensuring that everyone has access to fresh, wholesome food, this initiative seeks to enhance overall health, reduce food insecurity, and create a more equitable food system that benefits individuals and communities alike.",
+    "price": 9.99
+  },
+  {
+    "id": 6,
+    "picture": "https://i.ibb.co/5xKnNtf/Clothing.png",
+    "title": "Used Clothing Drive",
+    "category": "Beauty",
+    "categoryColor": "#79C23F33",
+    "cardColor": "#79C23F26",
+    "textColor": "#79C23F",
+    "description": "A used clothing drive is a charitable initiative where individuals or organizations collect gently used clothing items from the community. These donations are then distributed to those in need, including underprivileged families, homeless individuals, or disaster-affected communities. Such drives promote recycling, reduce waste, and provide warmth and comfort to those who may not have access to adequate clothing. It's a compassionate way to make a positive impact on the lives of others while also being environmentally conscious.",
+    "price": 39.95
+  },
+  {
+    "id": 7,
+    "picture": "https://i.ibb.co/YpHYS05/Education.png",
+    "title": "Good education",
+    "category": "Sports",
+    "categoryColor": "#FF444A33",
+    "cardColor": "#FF444A26",
+    "textColor": "#FF444A",
+    "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+    "price": 79.99
+  },
+  {
+    "id": 8,
+    "picture": "https://i.ibb.co/TW0X89G/Health.png",
+    "title": "Clean water for children",
+    "category": "Food",
+    "categoryColor": "#0052FF33",
+    "cardColor": "#0052FF26",
+    "textColor": "#0052FF",
+    "description": "Clean water is essential for children's health and well-being. Access to safe and uncontaminated drinking water is crucial to prevent waterborne diseases and support their growth and development. It enables proper hydration, sanitation, and hygiene practices, reducing the risk of illnesses that can hinder their education and overall quality of life. Ensuring clean water for children is a fundamental step towards a brighter, healthier future for the next generation.",
+    "price": 4.99
+  },
+  {
+    "id": 9,
+    "picture": "https://i.ibb.co/TW0X89G/Health.png",
+    "title": "Clean water for children",
+    "category": "Furniture",
+    "categoryColor": "#0052FF33",
+    "cardColor": "#0052FF26",
+    "textColor": "#0052FF",
+    "description": "Clean water is essential for children's health and well-being. Access to safe and uncontaminated drinking water is crucial to prevent waterborne diseases and support their growth and development. It enables proper hydration, sanitation, and hygiene practices, reducing the risk of illnesses that can hinder their education and overall quality of life. Ensuring clean water for children is a fundamental step towards a brighter, healthier future for the next generation.",
+    "price": 299.95
+  },
+  {
+    "id": 10,
+    "picture": "https://i.ibb.co/YpHYS05/Education.png",
+    "title": "Good education",
+    "category": "Jewelry",
+    "categoryColor": "#FF444A33",
+    "cardColor": "#FF444A26",
+    "textColor": "#FF444A",
+    "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+    "price": 149.99
+  },
+  {
+    "id": 11,
+    "picture": "https://i.ibb.co/5xKnNtf/Clothing.png",
+    "title": "Used Clothing Drive",
+    "category": "Music",
+    "categoryColor": "#79C23F33",
+    "cardColor": "#79C23F26",
+    "textColor": "#79C23F",
+    "description": "A used clothing drive is a charitable initiative where individuals or organizations collect gently used clothing items from the community. These donations are then distributed to those in need, including underprivileged families, homeless individuals, or disaster-affected communities. Such drives promote recycling, reduce waste, and provide warmth and comfort to those who may not have access to adequate clothing. It's a compassionate way to make a positive impact on the lives of others while also being environmentally conscious.",
+    "price": 12.99
+  },
+  {
+    "id": 12,
+    "picture": "https://i.ibb.co/LkwFh4H/Food.png",
+    "title": "Better Food for Everyone",
+    "category": "Automotive",
+    "categoryColor": "#F8714733",
+    "cardColor": "#F8714726",
+    "textColor": "#F87147",
+    "description": "is a movement aimed at improving access to nutritious, affordable, and sustainably sourced food for all. It advocates for policies and initiatives that address food deserts, support local agriculture, reduce food waste, and promote healthier eating habits. By ensuring that everyone has access to fresh, wholesome food, this initiative seeks to enhance overall health, reduce food insecurity, and create a more equitable food system that benefits individuals and communities alike.",
+    "price": 199.95
+  }
+]
